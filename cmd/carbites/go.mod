@@ -1,4 +1,4 @@
-module github.com/anjor/go-carbites/cmd
+module github.com/anjor/go-carbites/cmd/carbites
 
 go 1.15
 
